@@ -7,15 +7,15 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas//74ee4169b59e6f987ae3d77317309109.s
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:30,live-0.m3u8#cell=lnyc
 https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFo3YeUW8N21nrCjhqZ4eDc-CE39zDlpiZrIjJWWb9xB1)/dm/3/x774s7s/s/live-0.m3u8#cell=lnyc
-#EXTINF:28,AsiriTV (Lima) (720p) [Not 24/7]
+#EXTINF:28,AsiriTV 
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:60,Latina (480p) [Geo-blocked]
+#EXTINF:60,Latina 
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:30,playlist.m3u8?WebM3UCL
 #EXTVLCOPT:network-caching=1000
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8?WebM3UCL
 #EXTINF:30,playlist.m3u8?WebM3UCL
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:Planeta kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?WebM3UCL
 #EXTINF:91,Galáctica TV (Peru) (1080p) [Not 24/7]
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
