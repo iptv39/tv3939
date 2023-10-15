@@ -15,12 +15,12 @@ https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8?WebM3UCL
 #EXTINF:30,Planeta kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?WebM3UCL
-#EXTINF:91,Galáctica TV (Peru) (1080p) [Not 24/7]
-https://pacific.direcnode.com:3715/hybrid/play.m3u8
-#EXTINF:4,CONTACTO TELEVISION
-https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:29,Antares Televisión
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:91,Exitosa tv
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:4,TV PERU NOTICIAS
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8?PlaylistM3UCL
+#EXTINF:29,AmericaTV
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/8846
 #EXTINF:1800,DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:27,Agrotendencia TV (1080p)
