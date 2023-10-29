@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,PORTADA
+http://publisher2.online:8080/rwvyruin/ky1h80HnU9/1.ts
+#EXTINF:-1,************** TAQUILLAS Y 24H **************
+http://publisher2.online:8080/rwvyruin/ky1h80HnU9/68583.ts
+#EXTINF:-1,1 TAQUILLA ACCION
+http://publisher2.online:8080/rwvyruin/ky1h80HnU9/335425.ts
+#EXTINF:-1,Prisioneros (2013)
+http://publisher2.online:8080/movie/rwvyruin/ky1h80HnU9/350109.mkv
+#EXTINF:-1,El plan del diablo S01E01
+http://publisher2.online:8080/series/rwvyruin/ky1h80HnU9/350354.mkv
