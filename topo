@@ -639,3 +639,5 @@ https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Bethel RADIO" tvg-logo="" group-title="tv",Bethel RADIO
 https://tampa.audio-stream.com/proxy/bethelra?mp=/stream
+#EXTINF:-1 tvg-id="ext" tvg-name="Dios TeVe" tvg-logo="" group-title="tv",Dios TeVe
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
