@@ -14,7 +14,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/184.m3u8
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="Exitosa tv" tvg-logo="" group-title="tv",Exitosa tv
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="" tvg-logo="" group-title="tv",TV Peru
-https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3933.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CubaVision Internacional (480p) [Not 24/7]" tvg-logo="" group-title="tv",TV Peru Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN en Espa?ol" tvg-logo="" group-title="tv",CNN Noticias
