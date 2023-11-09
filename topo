@@ -1,642 +1,621 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="Intro" tvg-logo="" group-title="tv",Peliplus
+#EXTINF:-1 tvg-id="ext" tvg-name="Peliplus" tvg-logo="" group-title="TV",Peliplus
 https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
-#EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-name="Latina " tvg-logo="" group-title="tv",Latina 
+#EXTINF:-1 tvg-id="ext" tvg-name="Latina " tvg-logo="" group-title="TV",Latina 
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV " tvg-logo="" group-title="tv",ATV 
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV " tvg-logo="" group-title="TV",ATV 
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV +" tvg-logo="" group-title="tv",ATV +
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV +" tvg-logo="" group-title="TV",ATV +
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="" tvg-logo="" group-title="tv",ATV SUR
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV SUR" tvg-logo="" group-title="TV",ATV SUR
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA" tvg-logo="" group-title="tv",PANAMERICANA
+#EXTINF:-1 tvg-id="ext" tvg-name="PANAMERICANA" tvg-logo="" group-title="TV",PANAMERICANA
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/184.m3u8
-#EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="Exitosa tv" tvg-logo="" group-title="tv",Exitosa tv
+#EXTINF:-1 tvg-id="ext" tvg-name="Exitosa tv" tvg-logo="" group-title="TV",Exitosa tv
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="" tvg-logo="" group-title="tv",TV Peru
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Peru" tvg-logo="" group-title="TV",TV Peru
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3933.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CubaVision Internacional (480p) [Not 24/7]" tvg-logo="" group-title="tv",TV Peru Noticias
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Peru Noticias" tvg-logo="" group-title="TV",TV Peru Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CNN en Espa?ol" tvg-logo="" group-title="tv",CNN Noticias
-http://181.78.24.67:8010/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DW NOTICIAS" tvg-logo="" group-title="tv",DW Noticias
+#EXTINF:-1 tvg-id="ext" tvg-name="CNN Noticias" tvg-logo="" group-title="TV",CNN Noticias
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/46.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DW Noticias" tvg-logo="" group-title="TV",DW Noticias
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AsiriTV " tvg-logo="" group-title="tv",AsiriTV 
+#EXTINF:-1 tvg-id="ext" tvg-name="AsiriTV " tvg-logo="" group-title="TV",AsiriTV 
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv",KaribeTV
+#EXTINF:-1 tvg-id="ext" tvg-name="Gol PERU" tvg-logo="" group-title="TV",Gol PERU
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/170.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="KaribeTV" tvg-logo="" group-title="TV",KaribeTV
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Latino KIDS" tvg-logo="" group-title="tv",Latino KIDS
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Comedia" tvg-logo="" group-title="tv",Pluto TV Cine Comedia
-https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Planeta kids" tvg-logo="" group-title="tv",Planeta kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="ext" tvg-name="Guatuso TV " tvg-logo="" group-title="tv",Guatuso TV 
-https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network mx" tvg-logo="" group-title="tv",Cartoon Network mx
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Kids" tvg-logo="" group-title="tv",Pluto TV Kids
-https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Humor" tvg-logo="" group-title="tv",Pluto TV Humor
-https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal D Drama (1080p)" tvg-logo="" group-title="tv",Kanal D Drama (1080p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Kanal D Drama (1080p)" tvg-logo="" group-title="TV",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Rugrats" tvg-logo="" group-title="tv",Rugrats
-https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Estella games" tvg-logo="" group-title="tv",Estella games
-https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cartoonito Mx" tvg-logo="" group-title="tv",Cartoonito Mx
+#EXTINF:-1 tvg-id="ext" tvg-name="Latino KIDS" tvg-logo="" group-title="TV",Latino KIDS
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Cine Comedia 24/7" tvg-logo="" group-title="TV",TV Cine Comedia 24/7
+https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Planeta kids" tvg-logo="" group-title="TV",Planeta kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="Guatuso TV " tvg-logo="" group-title="TV",Guatuso TV 
+https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network " tvg-logo="" group-title="TV",Cartoon Network 
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/18.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network 2" tvg-logo="" group-title="TV",Cartoon Network 2
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoonito Mx" tvg-logo="" group-title="TV",Cartoonito Mx
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Anime Zone TV" tvg-logo="" group-title="tv",Anime Zone TV
-http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Esport MAX" tvg-logo="" group-title="tv",Esport MAX
+#EXTINF:-1 tvg-id="ext" tvg-name="TOONCAST" tvg-logo="" group-title="TV",TOONCAST
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/195.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Kids 24/7" tvg-logo="" group-title="TV",TV Kids 24/7
+https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Humor" tvg-logo="" group-title="TV",TV Humor
+https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Esport MAX" tvg-logo="" group-title="TV",Esport MAX
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="top cine latam" tvg-logo="" group-title="tv",top cine latam
-https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Terror" tvg-logo="" group-title="tv",Pluto TV Cine Terror
-https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Investiga" tvg-logo="" group-title="tv",Pluto TV Investiga
-https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Suspenso" tvg-logo="" group-title="tv",Pluto TV Cine Suspenso
-https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Agro TV (Apurimac) [Not 24/7]" tvg-logo="" group-title="tv",Agro TV (Apurimac) [Not 24/7]
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Andes Televisi?n " tvg-logo="" group-title="tv",Andes Televisi?n 
+#EXTINF:-1 tvg-id="ext" tvg-name="espn 1" tvg-logo="" group-title="TV",espn 1
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/19.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="espn 2" tvg-logo="" group-title="TV",espn 2
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/20.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="espn 3" tvg-logo="" group-title="TV",espn 3
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/22.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 1" tvg-logo="" group-title="TV",Fox Sports 1
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/152.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 2" tvg-logo="" group-title="TV",Fox Sports 2
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/153.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Andes Televisi?n " tvg-logo="" group-title="TV",Andes Televisi?n 
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AUTENTICA TV" tvg-logo="" group-title="tv",AUTENTICA TV
+#EXTINF:-1 tvg-id="ext" tvg-name="AUTENTICA TV" tvg-logo="" group-title="TV",AUTENTICA TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bella Asuncion TV " tvg-logo="" group-title="tv",Bella Asuncion TV 
-https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cadena TV" tvg-logo="" group-title="tv",Cadena TV
-https://servilive.com:3079/live/cdnatvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Familia" tvg-logo="" group-title="tv",Pluto TV Cine Familia
-https://i.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cajamarca TV (480p)" tvg-logo="" group-title="tv",Cajamarca TV (480p)
-https://ca2.inka.net.pe/cajamarcatv/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal 8 (Catacaos) (360p) [Not 24/7]" tvg-logo="" group-title="tv",Canal 8 (Catacaos) (360p) [Not 24/7]
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal 26 (720p)" tvg-logo="" group-title="tv",Canal 26 (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal 26 (720p)" tvg-logo="" group-title="TV",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal Iberoamericano (720p)" tvg-logo="" group-title="tv",Canal Iberoamericano (720p)
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Drama" tvg-logo="" group-title="tv",Pluto TV Cine Drama
+#EXTINF:-1 tvg-id="ext" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="TV",ANIMAL PLANET
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="top cine latam" tvg-logo="" group-title="TV",top cine latam
+https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Terror" tvg-logo="" group-title="TV",Pluto TV Cine Terror
+https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cadena TV" tvg-logo="" group-title="TV",Cadena TV
+https://servilive.com:3079/live/cdnatvlive.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Familia" tvg-logo="" group-title="TV",Pluto TV Cine Familia
+https://i.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Suspenso" tvg-logo="" group-title="TV",Pluto TV Cine Suspenso
+https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Drama" tvg-logo="" group-title="TV",Pluto TV Cine Drama
 https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cocina" tvg-logo="" group-title="tv",Pluto TV Cocina
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cocina" tvg-logo="" group-title="TV",Pluto TV Cocina
 https://i.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Deportes" tvg-logo="" group-title="tv",Pluto TV Deportes
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Deportes" tvg-logo="" group-title="TV",Pluto TV Deportes
 https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Novelas" tvg-logo="" group-title="tv",Pluto TV Novelas
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Novelas" tvg-logo="" group-title="TV",Pluto TV Novelas
 https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Series" tvg-logo="" group-title="tv",Pluto TV Series
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Series" tvg-logo="" group-title="TV",Pluto TV Series
 https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Anime" tvg-logo="" group-title="tv",Pluto TV Anime
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Anime" tvg-logo="" group-title="TV",Pluto TV Anime
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Reality" tvg-logo="" group-title="tv",Pluto TV Reality
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Reality" tvg-logo="" group-title="TV",Pluto TV Reality
 https://i.mjh.nz/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Junior" tvg-logo="" group-title="tv",Pluto TV Junior
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Junior" tvg-logo="" group-title="TV",Pluto TV Junior
 https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Misterios" tvg-logo="" group-title="tv",Pluto TV Misterios
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Misterios" tvg-logo="" group-title="TV",Pluto TV Misterios
 https://i.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Estelar" tvg-logo="" group-title="tv",Pluto TV Cine Estelar
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Estelar" tvg-logo="" group-title="TV",Pluto TV Cine Estelar
 https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Hogar" tvg-logo="" group-title="tv",Pluto TV Hogar
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Hogar" tvg-logo="" group-title="TV",Pluto TV Hogar
 https://i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV  Competencias" tvg-logo="" group-title="tv",Pluto TV  Competencias
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV  Competencias" tvg-logo="" group-title="TV",Pluto TV  Competencias
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Velocidad" tvg-logo="" group-title="tv",Pluto TV Velocidad
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Velocidad" tvg-logo="" group-title="TV",Pluto TV Velocidad
 https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Teen" tvg-logo="" group-title="tv",Pluto TV Teen
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Teen" tvg-logo="" group-title="TV",Pluto TV Teen
 https://i.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Romance" tvg-logo="" group-title="tv",Pluto TV Cine Romance
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Romance" tvg-logo="" group-title="TV",Pluto TV Cine Romance
 https://i.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Animales" tvg-logo="" group-title="tv",Pluto TV Animales
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Animales" tvg-logo="" group-title="TV",Pluto TV Animales
 https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Ciencia" tvg-logo="" group-title="tv",Pluto TV Ciencia
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Ciencia" tvg-logo="" group-title="TV",Pluto TV Ciencia
 https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Series Latinas" tvg-logo="" group-title="tv",Pluto TV Series Latinas
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Series Latinas" tvg-logo="" group-title="TV",Pluto TV Series Latinas
 https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Naturaleza" tvg-logo="" group-title="tv",Pluto TV Naturaleza
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Naturaleza" tvg-logo="" group-title="TV",Pluto TV Naturaleza
 https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Aventura" tvg-logo="" group-title="tv",Pluto TV Aventura
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Aventura" tvg-logo="" group-title="TV",Pluto TV Aventura
 https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Caribe Televisi?n (Otuzco) (1080p) [Not 24/7]" tvg-logo="" group-title="tv",Caribe Televisi?n (Otuzco) (1080p) [Not 24/7]
-http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Central TV (Chosica) (614p) [Not 24/7]" tvg-logo="" group-title="tv",Central TV (Chosica) (614p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Central TV (Chosica) (614p) [Not 24/7]" tvg-logo="" group-title="TV",Central TV (Chosica) (614p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CGTN Espa?ol (576p)" tvg-logo="" group-title="tv",CGTN Espa?ol (576p)
+#EXTINF:-1 tvg-id="ext" tvg-name="CGTN Espa?ol (576p)" tvg-logo="" group-title="TV",CGTN Espa?ol (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CharapaTV (Pucallpa) [Not 24/7]" tvg-logo="" group-title="tv",CharapaTV (Pucallpa) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="CharapaTV (Pucallpa) [Not 24/7]" tvg-logo="" group-title="TV",CharapaTV (Pucallpa) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8168/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Conecta2TV (Lima) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Conecta2TV (Lima) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Conecta2TV (Lima) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Conecta2TV (Lima) (720p) [Not 24/7]
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Controversia TV (Moyobamba) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Controversia TV (Moyobamba) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Controversia TV (Moyobamba) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Controversia TV (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CR Television (Moyobamba) (720p) [Not 24/7]" tvg-logo="" group-title="tv",CR Television (Moyobamba) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="CR Television (Moyobamba) (720p) [Not 24/7]" tvg-logo="" group-title="TV",CR Television (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CreoTV (Cajamarca) (720p) [Not 24/7]" tvg-logo="" group-title="tv",CreoTV (Cajamarca) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="CreoTV (Cajamarca) (720p) [Not 24/7]" tvg-logo="" group-title="TV",CreoTV (Cajamarca) (720p) [Not 24/7]
 https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CTC (720p)" tvg-logo="" group-title="tv",CTC (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="CTC (720p)" tvg-logo="" group-title="TV",CTC (720p)
 http://190.108.83.142:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cultura 24 (360p) [Not 24/7]" tvg-logo="" group-title="tv",Cultura 24 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Cultura 24 (360p) [Not 24/7]" tvg-logo="" group-title="TV",Cultura 24 (360p) [Not 24/7]
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Di?spora TV [Not 24/7]" tvg-logo="" group-title="tv",Di?spora TV [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Di?spora TV [Not 24/7]" tvg-logo="" group-title="TV",Di?spora TV [Not 24/7]
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DMJ (Cuzco) (720p) [Not 24/7]" tvg-logo="" group-title="tv",DMJ (Cuzco) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="DMJ (Cuzco) (720p) [Not 24/7]" tvg-logo="" group-title="TV",DMJ (Cuzco) (720p) [Not 24/7]
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Doble C Televisi?n (Mazamari) [Not 24/7]" tvg-logo="" group-title="tv",Doble C Televisi?n (Mazamari) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Doble C Televisi?n (Mazamari) [Not 24/7]" tvg-logo="" group-title="TV",Doble C Televisi?n (Mazamari) [Not 24/7]
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DW Espa?ol (1080p)" tvg-logo="" group-title="tv",DW Espa?ol (1080p)
+#EXTINF:-1 tvg-id="ext" tvg-name="DW Espa?ol (1080p)" tvg-logo="" group-title="TV",DW Espa?ol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="El Histonauta TV (360p)" tvg-logo="" group-title="tv",El Histonauta TV (360p)
+#EXTINF:-1 tvg-id="ext" tvg-name="El Histonauta TV (360p)" tvg-logo="" group-title="TV",El Histonauta TV (360p)
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EnerGeek Animate (720p) [Not 24/7]" tvg-logo="" group-title="tv",EnerGeek Animate (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="EnerGeek Animate (720p) [Not 24/7]" tvg-logo="" group-title="TV",EnerGeek Animate (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EnerGeek Fanpop (720p) [Not 24/7]" tvg-logo="" group-title="tv",EnerGeek Fanpop (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="EnerGeek Fanpop (720p) [Not 24/7]" tvg-logo="" group-title="TV",EnerGeek Fanpop (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EnerGeek Retro (720p) [Not 24/7]" tvg-logo="" group-title="tv",EnerGeek Retro (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="EnerGeek Retro (720p) [Not 24/7]" tvg-logo="" group-title="TV",EnerGeek Retro (720p) [Not 24/7]
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Enlace (720p)" tvg-logo="" group-title="tv",Enlace (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Enlace (720p)" tvg-logo="" group-title="TV",Enlace (720p)
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Esports Max [Not 24/7]" tvg-logo="" group-title="tv",Esports Max [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Esports Max [Not 24/7]" tvg-logo="" group-title="TV",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EWTN el Canal Cat?lico (720p) [Not 24/7]" tvg-logo="" group-title="tv",EWTN el Canal Cat?lico (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="EWTN el Canal Cat?lico (720p) [Not 24/7]" tvg-logo="" group-title="TV",EWTN el Canal Cat?lico (720p) [Not 24/7]
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Exitosa TV (720p)" tvg-logo="" group-title="tv",Exitosa TV (720p)
-https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Filmstream" tvg-logo="" group-title="tv",Filmstream
+#EXTINF:-1 tvg-id="ext" tvg-name="Filmstream" tvg-logo="" group-title="TV",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="France 24 Espa?ol (1080p)" tvg-logo="" group-title="tv",France 24 Espa?ol (1080p)
+#EXTINF:-1 tvg-id="ext" tvg-name="France 24 Espa?ol (1080p)" tvg-logo="" group-title="TV",France 24 Espa?ol (1080p)
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Frecuencia Musical TV (720p)" tvg-logo="" group-title="tv",Frecuencia Musical TV (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Frecuencia Musical TV (720p)" tvg-logo="" group-title="TV",Frecuencia Musical TV (720p)
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FuegoTV (Lima) (720p) [Not 24/7]" tvg-logo="" group-title="tv",FuegoTV (Lima) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="FuegoTV (Lima) (720p) [Not 24/7]" tvg-logo="" group-title="TV",FuegoTV (Lima) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Galicia TV Am?rica (720p)" tvg-logo="" group-title="tv",Galicia TV Am?rica (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Galicia TV Am?rica (720p)" tvg-logo="" group-title="TV",Galicia TV Am?rica (720p)
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Genios TV (Moyobamba) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Genios TV (Moyobamba) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Genios TV (Moyobamba) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Genios TV (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Hiperconectados Televisi?n (720p)" tvg-logo="" group-title="tv",Hiperconectados Televisi?n (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Hiperconectados Televisi?n (720p)" tvg-logo="" group-title="TV",Hiperconectados Televisi?n (720p)
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HispanTV (480p)" tvg-logo="" group-title="tv",HispanTV (480p)
+#EXTINF:-1 tvg-id="ext" tvg-name="HispanTV (480p)" tvg-logo="" group-title="TV",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Huacho Per? TV [Not 24/7]" tvg-logo="" group-title="tv",Huacho Per? TV [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Huacho Per? TV [Not 24/7]" tvg-logo="" group-title="TV",Huacho Per? TV [Not 24/7]
 https://paneltv.rstreaminghd.net:3777/live/huachoperutvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Hu?nuco en Vivo (480p) [Not 24/7]" tvg-logo="" group-title="tv",Hu?nuco en Vivo (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Hu?nuco en Vivo (480p) [Not 24/7]" tvg-logo="" group-title="TV",Hu?nuco en Vivo (480p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Identidad TV (720p) [Not 24/7]" tvg-logo="" group-title="tv",Identidad TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Identidad TV (720p) [Not 24/7]" tvg-logo="" group-title="TV",Identidad TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Imagen Televisi?n (Rioja) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Imagen Televisi?n (Rioja) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Imagen Televisi?n (Rioja) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Imagen Televisi?n (Rioja) (720p) [Not 24/7]
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="JN19 (720p) [Not 24/7]" tvg-logo="" group-title="tv",JN19 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="JN19 (720p) [Not 24/7]" tvg-logo="" group-title="TV",JN19 (720p) [Not 24/7]
 https://servilive.com:3149/live/jn19tvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="K-Pop Channel" tvg-logo="" group-title="tv",K-Pop Channel
+#EXTINF:-1 tvg-id="ext" tvg-name="K-Pop Channel" tvg-logo="" group-title="TV",K-Pop Channel
 http://177.53.152.186:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanade (720p)" tvg-logo="" group-title="tv",Kanade (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Kanade (720p)" tvg-logo="" group-title="TV",Kanade (720p)
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Karibe?a (720p) [Not 24/7]" tvg-logo="" group-title="tv",Karibe?a (720p) [Not 24/7]
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="La Islilla TV [Not 24/7]" tvg-logo="" group-title="tv",La Islilla TV [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="La Islilla TV [Not 24/7]" tvg-logo="" group-title="TV",La Islilla TV [Not 24/7]
 http://190.108.83.142:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="La Luz TV (720p) [Not 24/7]" tvg-logo="" group-title="tv",La Luz TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="La Luz TV (720p) [Not 24/7]" tvg-logo="" group-title="TV",La Luz TV (720p) [Not 24/7]
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="La Ribere?a (Pucallpa) (480p) [Not 24/7]" tvg-logo="" group-title="tv",La Ribere?a (Pucallpa) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="La Ribere?a (Pucallpa) (480p) [Not 24/7]" tvg-logo="" group-title="TV",La Ribere?a (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="LimaLive" tvg-logo="" group-title="tv",LimaLive
+#EXTINF:-1 tvg-id="ext" tvg-name="LimaLive" tvg-logo="" group-title="TV",LimaLive
 https://vdo.grupolimalive.com:3245/multi_web/play_720.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="LotPlus TV (Chiclayo) (720p) [Not 24/7]" tvg-logo="" group-title="tv",LotPlus TV (Chiclayo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="LotPlus TV (Chiclayo) (720p) [Not 24/7]" tvg-logo="" group-title="TV",LotPlus TV (Chiclayo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Master TV (Tarapoto) (480p) [Not 24/7]" tvg-logo="" group-title="tv",Master TV (Tarapoto) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Master TV (Tarapoto) (480p) [Not 24/7]" tvg-logo="" group-title="TV",Master TV (Tarapoto) (480p) [Not 24/7]
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MBC America (480p)" tvg-logo="" group-title="tv",MBC America (480p)
+#EXTINF:-1 tvg-id="ext" tvg-name="MBC America (480p)" tvg-logo="" group-title="TV",MBC America (480p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Mega TV (Arequipa) [Not 24/7]" tvg-logo="" group-title="tv",Mega TV (Arequipa) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Mega TV (Arequipa) [Not 24/7]" tvg-logo="" group-title="TV",Mega TV (Arequipa) [Not 24/7]
 https://hls.servidor.stream/storage/megatv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Mega TV (Jaen) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Mega TV (Jaen) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Mega TV (Jaen) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Mega TV (Jaen) (720p) [Not 24/7]
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Miel TV (Satipo) [Not 24/7]" tvg-logo="" group-title="tv",Miel TV (Satipo) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Miel TV (Satipo) [Not 24/7]" tvg-logo="" group-title="TV",Miel TV (Satipo) [Not 24/7]
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Millenium 49 TV (Pucallpa) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Millenium 49 TV (Pucallpa) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Millenium 109 FM (Lamas) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Millenium 109 FM (Lamas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Millenium 109 FM (Lamas) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Millenium 109 FM (Lamas) (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MINEDU IPTV 2 (320p) [Not 24/7]" tvg-logo="" group-title="tv",MINEDU IPTV 2 (320p) [Not 24/7]
-http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MitosTV (Mitos de la Selva | Pucallpa) (480p) [Not 24/7]" tvg-logo="" group-title="tv",MitosTV (Mitos de la Selva | Pucallpa) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="MitosTV (Mitos de la Selva | Pucallpa) (480p) [Not 24/7]" tvg-logo="" group-title="TV",MitosTV (Mitos de la Selva | Pucallpa) (480p) [Not 24/7]
 https://inliveserver.com:1936/19018/19018/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Monterrico TV (1080p) [Not 24/7]" tvg-logo="" group-title="tv",Monterrico TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Monterrico TV (1080p) [Not 24/7]" tvg-logo="" group-title="TV",Monterrico TV (1080p) [Not 24/7]
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MX Old" tvg-logo="" group-title="tv",MX Old
-http://177.53.152.186:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NacionalTV (720p) [Not 24/7]" tvg-logo="" group-title="tv",NacionalTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="NacionalTV (720p) [Not 24/7]" tvg-logo="" group-title="TV",NacionalTV (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nativa (720p) [Not 24/7]" tvg-logo="" group-title="tv",Nativa (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Nativa (720p) [Not 24/7]" tvg-logo="" group-title="TV",Nativa (720p) [Not 24/7]
 https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nativa TV (Satipo) [Not 24/7]" tvg-logo="" group-title="tv",Nativa TV (Satipo) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Nativa TV (Satipo) [Not 24/7]" tvg-logo="" group-title="TV",Nativa TV (Satipo) [Not 24/7]
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NorSelva RTV [Not 24/7]" tvg-logo="" group-title="tv",NorSelva RTV [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="NorSelva RTV [Not 24/7]" tvg-logo="" group-title="TV",NorSelva RTV [Not 24/7]
 https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Novel?sima [Not 24/7]" tvg-logo="" group-title="tv",Novel?sima [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Novel?sima [Not 24/7]" tvg-logo="" group-title="TV",Novel?sima [Not 24/7]
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nuevo Tiempo (720p) [Not 24/7]" tvg-logo="" group-title="tv",Nuevo Tiempo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Nuevo Tiempo (720p) [Not 24/7]" tvg-logo="" group-title="TV",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="OK TeVe (Yurimaguas) (720p) [Not 24/7]" tvg-logo="" group-title="tv",OK TeVe (Yurimaguas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="OK TeVe (Yurimaguas) (720p) [Not 24/7]" tvg-logo="" group-title="TV",OK TeVe (Yurimaguas) (720p) [Not 24/7]
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Onda Digital (720p) [Not 24/7]" tvg-logo="" group-title="tv",Onda Digital (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Onda Digital (720p) [Not 24/7]" tvg-logo="" group-title="TV",Onda Digital (720p) [Not 24/7]
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Oriental TV 21 (Pucallpa) (480p) [Not 24/7]" tvg-logo="" group-title="tv",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Oriental TV 21 (Pucallpa) (480p) [Not 24/7]" tvg-logo="" group-title="TV",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Ovacion TV (720p) [Not 24/7]" tvg-logo="" group-title="tv",Ovacion TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Ovacion TV (720p) [Not 24/7]" tvg-logo="" group-title="TV",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pakapaka (720p)" tvg-logo="" group-title="tv",Pakapaka (720p)
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pax TV" tvg-logo="" group-title="tv",Pax TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Pax TV" tvg-logo="" group-title="TV",Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Per? Channel" tvg-logo="" group-title="tv",Per? Channel
+#EXTINF:-1 tvg-id="ext" tvg-name="Per? Channel" tvg-logo="" group-title="TV",Per? Channel
 https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Peru Magico (480p) [Not 24/7]" tvg-logo="" group-title="tv",Peru Magico (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Peru Magico (480p) [Not 24/7]" tvg-logo="" group-title="TV",Peru Magico (480p) [Not 24/7]
 http://38.131.11.9:1080/play/a0dh
-#EXTINF:-1 tvg-id="ext" tvg-name="PeruvianRadio TV [Not 24/7]" tvg-logo="" group-title="tv",PeruvianRadio TV [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="PeruvianRadio TV [Not 24/7]" tvg-logo="" group-title="TV",PeruvianRadio TV [Not 24/7]
 https://stmv.panel.grupolimalive.com/peruvian/peruvian/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="PiuraTV (720p) [Not 24/7]" tvg-logo="" group-title="tv",PiuraTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="PiuraTV (720p) [Not 24/7]" tvg-logo="" group-title="TV",PiuraTV (720p) [Not 24/7]
 http://190.108.83.142:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Planeta TV" tvg-logo="" group-title="tv",Planeta TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Planeta TV" tvg-logo="" group-title="TV",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Platzi TV (1080p)" tvg-logo="" group-title="tv",Platzi TV (1080p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Platzi TV (1080p)" tvg-logo="" group-title="TV",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Primavera 15" tvg-logo="" group-title="tv",Primavera 15
+#EXTINF:-1 tvg-id="ext" tvg-name="Primavera 15" tvg-logo="" group-title="TV",Primavera 15
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pymes TeVe" tvg-logo="" group-title="tv",Pymes TeVe
+#EXTINF:-1 tvg-id="ext" tvg-name="Pymes TeVe" tvg-logo="" group-title="TV",Pymes TeVe
 https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="QT Televisi?n (Cuzco) (720p) [Not 24/7]" tvg-logo="" group-title="tv",QT Televisi?n (Cuzco) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="QT Televisi?n (Cuzco) (720p) [Not 24/7]" tvg-logo="" group-title="TV",QT Televisi?n (Cuzco) (720p) [Not 24/7]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Radio El Pueblo" tvg-logo="" group-title="tv",Radio El Pueblo
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio El Pueblo" tvg-logo="" group-title="TV",Radio El Pueblo
 https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Radio Rutas del Per? (360p) [Not 24/7]" tvg-logo="" group-title="tv",Radio Rutas del Per? (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio Rutas del Per? (360p) [Not 24/7]" tvg-logo="" group-title="TV",Radio Rutas del Per? (360p) [Not 24/7]
 https://tv.portalexpress.es:3731/stream/play.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Radio San Borja TV (720p) [Not 24/7]" tvg-logo="" group-title="tv",Radio San Borja TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio San Borja TV (720p) [Not 24/7]" tvg-logo="" group-title="TV",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Radio Tropical Tarapoto (480p) [Not 24/7]" tvg-logo="" group-title="tv",Radio Tropical Tarapoto (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio Tropical Tarapoto (480p) [Not 24/7]" tvg-logo="" group-title="TV",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Radio TV Juanjui" tvg-logo="" group-title="tv",Radio TV Juanjui
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio TV Juanjui" tvg-logo="" group-title="TV",Radio TV Juanjui
 https://videosenlared.fullstreaming.ar:3664/live/juanjuitvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Radio TV Tendencias [Not 24/7]" tvg-logo="" group-title="tv",Radio TV Tendencias [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio TV Tendencias [Not 24/7]" tvg-logo="" group-title="TV",Radio TV Tendencias [Not 24/7]
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Radio Uno (Tacna) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Radio Uno (Tacna) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio Uno (Tacna) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Radio Uno (Tacna) (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Radio y Tv Filadelfia" tvg-logo="" group-title="tv",Radio y Tv Filadelfia
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio y Tv Filadelfia" tvg-logo="" group-title="TV",Radio y Tv Filadelfia
 https://streamlive8.hearthis.at/hls/9355343_hi/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RadioInka (Abancay) (1080p) [Not 24/7]" tvg-logo="" group-title="tv",RadioInka (Abancay) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="RadioInka (Abancay) (1080p) [Not 24/7]" tvg-logo="" group-title="TV",RadioInka (Abancay) (1080p) [Not 24/7]
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]" tvg-logo="" group-title="tv",RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]" tvg-logo="" group-title="TV",RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Rai Italia America (360p)" tvg-logo="" group-title="tv",Rai Italia America (360p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Rai Italia America (360p)" tvg-logo="" group-title="TV",Rai Italia America (360p)
 http://210.210.155.69/s/s63/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RCN M?s (1080p)" tvg-logo="" group-title="tv",RCN M?s (1080p)
+#EXTINF:-1 tvg-id="ext" tvg-name="RCN M?s (1080p)" tvg-logo="" group-title="TV",RCN M?s (1080p)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Red de Comunicaci?n Regional (RCR) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Red de Comunicaci?n Regional (RCR) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Red de Comunicaci?n Regional (RCR) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Red de Comunicaci?n Regional (RCR) (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Regi?n TV (Callao) (480p) [Not 24/7]" tvg-logo="" group-title="tv",Regi?n TV (Callao) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Regi?n TV (Callao) (480p) [Not 24/7]" tvg-logo="" group-title="TV",Regi?n TV (Callao) (480p) [Not 24/7]
 https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Restaurando Vidas Internacional (720p)" tvg-logo="" group-title="tv",Restaurando Vidas Internacional (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Restaurando Vidas Internacional (720p)" tvg-logo="" group-title="TV",Restaurando Vidas Internacional (720p)
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus 2 HD" tvg-logo="" group-title="tv",Retro Plus 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus 2 HD" tvg-logo="" group-title="TV",Retro Plus 2 HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus 3 (720p)" tvg-logo="" group-title="tv",Retro Plus 3 (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus 3 (720p)" tvg-logo="" group-title="TV",Retro Plus 3 (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus HD" tvg-logo="" group-title="tv",Retro Plus HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus HD" tvg-logo="" group-title="TV",Retro Plus HD
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RN Televisi?n (Yurimaguas) (720p) [Not 24/7]" tvg-logo="" group-title="tv",RN Televisi?n (Yurimaguas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="RN Televisi?n (Yurimaguas) (720p) [Not 24/7]" tvg-logo="" group-title="TV",RN Televisi?n (Yurimaguas) (720p) [Not 24/7]
 https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RPP (480p) [Not 24/7]" tvg-logo="" group-title="tv",RPP (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="RPP (480p) [Not 24/7]" tvg-logo="" group-title="TV",RPP (480p) [Not 24/7]
 http://38.131.11.9:1080/play/a0d8
-#EXTINF:-1 tvg-id="ext" tvg-name="RT en Espa?ol (1080p)" tvg-logo="" group-title="tv",RT en Espa?ol (1080p)
+#EXTINF:-1 tvg-id="ext" tvg-name="RT en Espa?ol (1080p)" tvg-logo="" group-title="TV",RT en Espa?ol (1080p)
 https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RTV Total (Yurimaguas) (480p) [Not 24/7]" tvg-logo="" group-title="tv",RTV Total (Yurimaguas) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="RTV Total (Yurimaguas) (480p) [Not 24/7]" tvg-logo="" group-title="TV",RTV Total (Yurimaguas) (480p) [Not 24/7]
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="San Isidro TV (360p) [Not 24/7]" tvg-logo="" group-title="tv",San Isidro TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="San Isidro TV (360p) [Not 24/7]" tvg-logo="" group-title="TV",San Isidro TV (360p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SanjuaneraTV [Not 24/7]" tvg-logo="" group-title="tv",SanjuaneraTV [Not 24/7]
-https://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SEO TV (1080p)" tvg-logo="" group-title="tv",SEO TV (1080p)
-https://live.seo.tv.bo/live/1SEO.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SEO TV Kids (1080p)" tvg-logo="" group-title="tv",SEO TV Kids (1080p)
-https://live.seo.tv.bo/live/2SEO.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SEO TV Novelas (1080p)" tvg-logo="" group-title="tv",SEO TV Novelas (1080p)
-https://live.seo.tv.bo/live/3SEO.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SEO TV Pel?culas (1080p)" tvg-logo="" group-title="tv",SEO TV Pel?culas (1080p)
-https://live.seo.tv.bo/live/4SEO.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sistema 1 [Not 24/7]" tvg-logo="" group-title="tv",Sistema 1 [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Sistema 1 [Not 24/7]" tvg-logo="" group-title="TV",Sistema 1 [Not 24/7]
 https://paneltv.rstreaminghd.net:3042/live/sistema1tvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sol Stereo TV" tvg-logo="" group-title="tv",Sol Stereo TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Sol Stereo TV" tvg-logo="" group-title="TV",Sol Stereo TV
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sol Televisi?n" tvg-logo="" group-title="tv",Sol Televisi?n
+#EXTINF:-1 tvg-id="ext" tvg-name="Sol Televisi?n" tvg-logo="" group-title="TV",Sol Televisi?n
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SoloStandUp (480p) [Not 24/7]" tvg-logo="" group-title="tv",SoloStandUp (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="SoloStandUp (480p) [Not 24/7]" tvg-logo="" group-title="TV",SoloStandUp (480p) [Not 24/7]
 https://paneltv.online:1936/8116/8116/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sumac TV (Lima) (480p) [Not 24/7]" tvg-logo="" group-title="tv",Sumac TV (Lima) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Sumac TV (Lima) (480p) [Not 24/7]" tvg-logo="" group-title="TV",Sumac TV (Lima) (480p) [Not 24/7]
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sun Channel (720p)" tvg-logo="" group-title="tv",Sun Channel (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Sun Channel (720p)" tvg-logo="" group-title="TV",Sun Channel (720p)
 https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Canal (Yurimaguas) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Super Canal (Yurimaguas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Canal (Yurimaguas) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Super Canal (Yurimaguas) (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Super TV (Kachorro | Bagua Grande) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Super TV (Kachorro | Bagua Grande) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Super TV (Kachorro | Bagua Grande) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Super TV (Kachorro | Bagua Grande) (720p) [Not 24/7]
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SurTV (Ilo) (720p) [Not 24/7]" tvg-logo="" group-title="tv",SurTV (Ilo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="SurTV (Ilo) (720p) [Not 24/7]" tvg-logo="" group-title="TV",SurTV (Ilo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tastemade en Espa?ol (1080p)" tvg-logo="" group-title="tv",Tastemade en Espa?ol (1080p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Tastemade en Espa?ol (1080p)" tvg-logo="" group-title="TV",Tastemade en Espa?ol (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TecSatel Cine TV (Arequipa) (720p) [Not 24/7]" tvg-logo="" group-title="tv",TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="TecSatel Cine TV (Arequipa) (720p) [Not 24/7]" tvg-logo="" group-title="TV",TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
 https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tele2000 (Ayacucho) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Tele2000 (Ayacucho) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Tele2000 (Ayacucho) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Tele2000 (Ayacucho) (720p) [Not 24/7]
 https://servilive.com:3126/live/tele2000live.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Teleamazonas" tvg-logo="" group-title="tv",Teleamazonas
+#EXTINF:-1 tvg-id="ext" tvg-name="Teleamazonas" tvg-logo="" group-title="TV",Teleamazonas
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Telecolor (Yurimaguas) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Telecolor (Yurimaguas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Telecolor (Yurimaguas) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Telecolor (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Telefe Internacional (720p) [Not 24/7]" tvg-logo="" group-title="tv",Telefe Internacional (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Telefe Internacional (720p) [Not 24/7]" tvg-logo="" group-title="TV",Telefe Internacional (720p) [Not 24/7]
 https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="teleSUR (1080p)" tvg-logo="" group-title="tv",teleSUR (1080p)
+#EXTINF:-1 tvg-id="ext" tvg-name="teleSUR (1080p)" tvg-logo="" group-title="TV",teleSUR (1080p)
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Telesur (Ilo) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Telesur (Ilo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Telesur (Ilo) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Telesur (Ilo) (720p) [Not 24/7]
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Telesur (Mollendo) (240p) [Not 24/7]" tvg-logo="" group-title="tv",Telesur (Mollendo) (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Telesur (Mollendo) (240p) [Not 24/7]" tvg-logo="" group-title="TV",Telesur (Mollendo) (240p) [Not 24/7]
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Telesur (Moquegua) (360p) [Not 24/7]" tvg-logo="" group-title="tv",Telesur (Moquegua) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Telesur (Moquegua) (360p) [Not 24/7]" tvg-logo="" group-title="TV",Telesur (Moquegua) (360p) [Not 24/7]
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Telesur (Tacna) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Telesur (Tacna) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Telesur (Tacna) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Telesur (Tacna) (720p) [Not 24/7]
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Telesur Camana (720p)" tvg-logo="" group-title="tv",Telesur Camana (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Telesur Camana (720p)" tvg-logo="" group-title="TV",Telesur Camana (720p)
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Televisi?n Tarapoto (720p) [Not 24/7]" tvg-logo="" group-title="tv",Televisi?n Tarapoto (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Televisi?n Tarapoto (720p) [Not 24/7]" tvg-logo="" group-title="TV",Televisi?n Tarapoto (720p) [Not 24/7]
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tevex (720p) [Not 24/7]" tvg-logo="" group-title="tv",Tevex (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Tevex (720p) [Not 24/7]" tvg-logo="" group-title="TV",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Top FM TV (Atalaya) (240p) [Not 24/7]" tvg-logo="" group-title="tv",Top FM TV (Atalaya) (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Top FM TV (Atalaya) (240p) [Not 24/7]" tvg-logo="" group-title="TV",Top FM TV (Atalaya) (240p) [Not 24/7]
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Top Latino TV" tvg-logo="" group-title="tv",Top Latino TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Top Latino TV" tvg-logo="" group-title="TV",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TPTO Channel" tvg-logo="" group-title="tv",TPTO Channel
+#EXTINF:-1 tvg-id="ext" tvg-name="TPTO Channel" tvg-logo="" group-title="TV",TPTO Channel
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Trivu (Lima) [Not 24/7]" tvg-logo="" group-title="tv",Trivu (Lima) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Trivu (Lima) [Not 24/7]" tvg-logo="" group-title="TV",Trivu (Lima) [Not 24/7]
 https://servilive.com:3244/live/trivutvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tropical TV (Puerto Maldonado) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Tropical TV (Puerto Maldonado) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Tropical TV (Puerto Maldonado) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Tropical TV (Puerto Maldonado) (720p) [Not 24/7]
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Turbo Mix Radio TV (360p) [Not 24/7]" tvg-logo="" group-title="tv",Turbo Mix Radio TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Turbo Mix Radio TV (360p) [Not 24/7]" tvg-logo="" group-title="TV",Turbo Mix Radio TV (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV5 Soritor (720p) [Not 24/7]" tvg-logo="" group-title="tv",TV5 Soritor (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="TV5 Soritor (720p) [Not 24/7]" tvg-logo="" group-title="TV",TV5 Soritor (720p) [Not 24/7]
 https://live.obslivestream.com/tv5/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV Cosmos (720p) [Not 24/7]" tvg-logo="" group-title="tv",TV Cosmos (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Cosmos (720p) [Not 24/7]" tvg-logo="" group-title="TV",TV Cosmos (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]" tvg-logo="" group-title="tv",TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]" tvg-logo="" group-title="TV",TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVenLinea (Cuzco) (720p) [Not 24/7]" tvg-logo="" group-title="tv",TVenLinea (Cuzco) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="TVenLinea (Cuzco) (720p) [Not 24/7]" tvg-logo="" group-title="TV",TVenLinea (Cuzco) (720p) [Not 24/7]
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tvfaces Online (360p) [Not 24/7]" tvg-logo="" group-title="tv",Tvfaces Online (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Tvfaces Online (360p) [Not 24/7]" tvg-logo="" group-title="TV",Tvfaces Online (360p) [Not 24/7]
 https://tvdatta.com:3211/stream/play.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVG Am?rica (720p)" tvg-logo="" group-title="tv",TVG Am?rica (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="TVG Am?rica (720p)" tvg-logo="" group-title="TV",TVG Am?rica (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Uchu TV (Cusco) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Uchu TV (Cusco) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Uchu TV (Cusco) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Uchu TV (Cusco) (720p) [Not 24/7]
 https://tna5.bozztv.com/Cusco/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="UCL (720p)" tvg-logo="" group-title="tv",UCL (720p)
+#EXTINF:-1 tvg-id="ext" tvg-name="UCL (720p)" tvg-logo="" group-title="TV",UCL (720p)
 http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Unife TV" tvg-logo="" group-title="tv",Unife TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Unife TV" tvg-logo="" group-title="TV",Unife TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u
-#EXTINF:-1 tvg-id="ext" tvg-name="Unitel (Huancayo) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Unitel (Huancayo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Unitel (Huancayo) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Unitel (Huancayo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Uranio TV (Yurimaguas) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Uranio TV (Yurimaguas) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Vallenato Internacional (720p) [Not 24/7]" tvg-logo="" group-title="tv",Vallenato Internacional (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Vallenato Internacional (720p) [Not 24/7]" tvg-logo="" group-title="TV",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="VamisaTV" tvg-logo="" group-title="tv",VamisaTV
+#EXTINF:-1 tvg-id="ext" tvg-name="VamisaTV" tvg-logo="" group-title="TV",VamisaTV
 https://inliveserver.com:1936/9506/9506/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="V?a Altomayo (720p) [Not 24/7]" tvg-logo="" group-title="tv",V?a Altomayo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="V?a Altomayo (720p) [Not 24/7]" tvg-logo="" group-title="TV",V?a Altomayo (720p) [Not 24/7]
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="V?a Televisi?n (Tarapoto) [Not 24/7]" tvg-logo="" group-title="tv",V?a Televisi?n (Tarapoto) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="V?a Televisi?n (Tarapoto) [Not 24/7]" tvg-logo="" group-title="TV",V?a Televisi?n (Tarapoto) [Not 24/7]
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Visi?n Noticias Per? (VNP) (720p) [Not 24/7]" tvg-logo="" group-title="tv",Visi?n Noticias Per? (VNP) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Visi?n Noticias Per? (VNP) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Visi?n Noticias Per? (VNP) (720p) [Not 24/7]
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Visi?n TV Musica (720p) [Not 24/7]" tvg-logo="" group-title="tv",Visi?n TV Musica (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="Visi?n TV Musica (720p) [Not 24/7]" tvg-logo="" group-title="TV",Visi?n TV Musica (720p) [Not 24/7]
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="VisionSur (Arequipa) [Not 24/7]" tvg-logo="" group-title="tv",VisionSur (Arequipa) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="VisionSur (Arequipa) [Not 24/7]" tvg-logo="" group-title="TV",VisionSur (Arequipa) [Not 24/7]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="VPItv (1080p)" tvg-logo="" group-title="tv",VPItv (1080p)
+#EXTINF:-1 tvg-id="ext" tvg-name="VPItv (1080p)" tvg-logo="" group-title="TV",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="WOW TV (576p) [Not 24/7]" tvg-logo="" group-title="tv",WOW TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="WOW TV (576p) [Not 24/7]" tvg-logo="" group-title="TV",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="X TV (Chachapoyas)" tvg-logo="" group-title="tv",X TV (Chachapoyas)
+#EXTINF:-1 tvg-id="ext" tvg-name="X TV (Chachapoyas)" tvg-logo="" group-title="TV",X TV (Chachapoyas)
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Viajes" tvg-logo="" group-title="tv",Pluto TV Viajes
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Viajes" tvg-logo="" group-title="TV",Pluto TV Viajes
 https://i.mjh.nz/PlutoTV/5dcddfbdb7cf0e0009ae09ea-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nick Cl?sico" tvg-logo="" group-title="tv",Nick Cl?sico
+#EXTINF:-1 tvg-id="ext" tvg-name="Nick Cl?sico" tvg-logo="" group-title="TV",Nick Cl?sico
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nick Jr. Club" tvg-logo="" group-title="tv",Nick Jr. Club
+#EXTINF:-1 tvg-id="ext" tvg-name="Nick Jr. Club" tvg-logo="" group-title="TV",Nick Jr. Club
 https://i.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Historia" tvg-logo="" group-title="tv",Pluto TV Historia
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Historia" tvg-logo="" group-title="TV",Pluto TV Historia
 https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Series Retro" tvg-logo="" group-title="tv",Pluto TV Series Retro
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Series Retro" tvg-logo="" group-title="TV",Pluto TV Series Retro
 https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Classic" tvg-logo="" group-title="tv",MTV Classic
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Classic" tvg-logo="" group-title="TV",MTV Classic
 https://i.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Telefe Hits" tvg-logo="" group-title="tv",Telefe Hits
+#EXTINF:-1 tvg-id="ext" tvg-name="Telefe Hits" tvg-logo="" group-title="TV",Telefe Hits
 https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV  Nuestro Cine" tvg-logo="" group-title="tv",Pluto TV  Nuestro Cine
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV  Nuestro Cine" tvg-logo="" group-title="TV",Pluto TV  Nuestro Cine
 https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Vida Real" tvg-logo="" group-title="tv",Pluto TV Vida Real
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Vida Real" tvg-logo="" group-title="TV",Pluto TV Vida Real
 https://i.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MasterChef" tvg-logo="" group-title="tv",MasterChef
+#EXTINF:-1 tvg-id="ext" tvg-name="MasterChef" tvg-logo="" group-title="TV",MasterChef
 https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Minuto Para Ganar" tvg-logo="" group-title="tv",Minuto Para Ganar
+#EXTINF:-1 tvg-id="ext" tvg-name="Minuto Para Ganar" tvg-logo="" group-title="TV",Minuto Para Ganar
 https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Los archivos del FBI" tvg-logo="" group-title="tv",Los archivos del FBI
+#EXTINF:-1 tvg-id="ext" tvg-name="Los archivos del FBI" tvg-logo="" group-title="TV",Los archivos del FBI
 https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Babar" tvg-logo="" group-title="tv",Babar
+#EXTINF:-1 tvg-id="ext" tvg-name="Babar" tvg-logo="" group-title="TV",Babar
 https://i.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Anim? Acci?n" tvg-logo="" group-title="tv",Pluto TV Anim? Acci?n
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Anim? Acci?n" tvg-logo="" group-title="TV",Pluto TV Anim? Acci?n
 https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Gu?a de canales" tvg-logo="" group-title="tv",Gu?a de canales
+#EXTINF:-1 tvg-id="ext" tvg-name="Gu?a de canales" tvg-logo="" group-title="TV",Gu?a de canales
 https://i.mjh.nz/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Estrellas de Acci?n" tvg-logo="" group-title="tv",Estrellas de Acci?n
+#EXTINF:-1 tvg-id="ext" tvg-name="Estrellas de Acci?n" tvg-logo="" group-title="TV",Estrellas de Acci?n
 https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Ridiculousness" tvg-logo="" group-title="tv",MTV Ridiculousness
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Ridiculousness" tvg-logo="" group-title="TV",MTV Ridiculousness
 https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Peleas" tvg-logo="" group-title="tv",Pluto TV Peleas
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Peleas" tvg-logo="" group-title="TV",Pluto TV Peleas
 https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="The New Detectives" tvg-logo="" group-title="tv",The New Detectives
+#EXTINF:-1 tvg-id="ext" tvg-name="The New Detectives" tvg-logo="" group-title="TV",The New Detectives
 https://i.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Babyfirst" tvg-logo="" group-title="tv",Babyfirst
+#EXTINF:-1 tvg-id="ext" tvg-name="Babyfirst" tvg-logo="" group-title="TV",Babyfirst
 https://i.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="The Pet Collective" tvg-logo="" group-title="tv",The Pet Collective
+#EXTINF:-1 tvg-id="ext" tvg-name="The Pet Collective" tvg-logo="" group-title="TV",The Pet Collective
 https://i.mjh.nz/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FailArmy" tvg-logo="" group-title="tv",FailArmy
+#EXTINF:-1 tvg-id="ext" tvg-name="FailArmy" tvg-logo="" group-title="TV",FailArmy
 https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Wipe Out" tvg-logo="" group-title="tv",Wipe Out
+#EXTINF:-1 tvg-id="ext" tvg-name="Wipe Out" tvg-logo="" group-title="TV",Wipe Out
 https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Fashionstream" tvg-logo="" group-title="tv",Pluto TV Fashionstream
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Fashionstream" tvg-logo="" group-title="TV",Pluto TV Fashionstream
 https://i.mjh.nz/PlutoTV/5ee8d84bfb286e0007285aad-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Naruto" tvg-logo="" group-title="tv",Naruto
+#EXTINF:-1 tvg-id="ext" tvg-name="Naruto" tvg-logo="" group-title="TV",Naruto
 https://i.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Archivos Forenses" tvg-logo="" group-title="tv",Archivos Forenses
+#EXTINF:-1 tvg-id="ext" tvg-name="Archivos Forenses" tvg-logo="" group-title="TV",Archivos Forenses
 https://i.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Misterios Medicos" tvg-logo="" group-title="tv",Misterios Medicos
+#EXTINF:-1 tvg-id="ext" tvg-name="Misterios Medicos" tvg-logo="" group-title="TV",Misterios Medicos
 https://i.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Empe?os a lo bestia" tvg-logo="" group-title="tv",Empe?os a lo bestia
+#EXTINF:-1 tvg-id="ext" tvg-name="Empe?os a lo bestia" tvg-logo="" group-title="TV",Empe?os a lo bestia
 https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="tv",Pluto TV Sci-Fi
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Sci-Fi" tvg-logo="" group-title="TV",Pluto TV Sci-Fi
 https://i.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Barney" tvg-logo="" group-title="tv",Barney
+#EXTINF:-1 tvg-id="ext" tvg-name="Barney" tvg-logo="" group-title="TV",Barney
 https://i.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Historias de Ultratumba" tvg-logo="" group-title="tv",Historias de Ultratumba
+#EXTINF:-1 tvg-id="ext" tvg-name="Historias de Ultratumba" tvg-logo="" group-title="TV",Historias de Ultratumba
 https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="El Reino Infantil" tvg-logo="" group-title="tv",El Reino Infantil
+#EXTINF:-1 tvg-id="ext" tvg-name="El Reino Infantil" tvg-logo="" group-title="TV",El Reino Infantil
 https://i.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Paisajes por Stingray" tvg-logo="" group-title="tv",Paisajes por Stingray
+#EXTINF:-1 tvg-id="ext" tvg-name="Paisajes por Stingray" tvg-logo="" group-title="TV",Paisajes por Stingray
 https://i.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Telefe Noticias" tvg-logo="" group-title="tv",Telefe Noticias
+#EXTINF:-1 tvg-id="ext" tvg-name="Telefe Noticias" tvg-logo="" group-title="TV",Telefe Noticias
 https://i.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Misterios sin Resolver" tvg-logo="" group-title="tv",Misterios sin Resolver
+#EXTINF:-1 tvg-id="ext" tvg-name="Misterios sin Resolver" tvg-logo="" group-title="TV",Misterios sin Resolver
 https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Conciertos por Stingray" tvg-logo="" group-title="tv",Conciertos por Stingray
+#EXTINF:-1 tvg-id="ext" tvg-name="Conciertos por Stingray" tvg-logo="" group-title="TV",Conciertos por Stingray
 https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Karaoke por Stingray" tvg-logo="" group-title="tv",Karaoke por Stingray
+#EXTINF:-1 tvg-id="ext" tvg-name="Karaoke por Stingray" tvg-logo="" group-title="TV",Karaoke por Stingray
 https://i.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Los Tres Chiflados" tvg-logo="" group-title="tv",Los Tres Chiflados
+#EXTINF:-1 tvg-id="ext" tvg-name="Los Tres Chiflados" tvg-logo="" group-title="TV",Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tastemade" tvg-logo="" group-title="tv",Tastemade
+#EXTINF:-1 tvg-id="ext" tvg-name="Tastemade" tvg-logo="" group-title="TV",Tastemade
 https://i.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Dog el cazarrecompensas" tvg-logo="" group-title="tv",Dog el cazarrecompensas
+#EXTINF:-1 tvg-id="ext" tvg-name="Dog el cazarrecompensas" tvg-logo="" group-title="TV",Dog el cazarrecompensas
 https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Las Pistas de Blue" tvg-logo="" group-title="tv",Las Pistas de Blue
+#EXTINF:-1 tvg-id="ext" tvg-name="Las Pistas de Blue" tvg-logo="" group-title="TV",Las Pistas de Blue
 https://i.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Lucha Libre AAA" tvg-logo="" group-title="tv",Lucha Libre AAA
+#EXTINF:-1 tvg-id="ext" tvg-name="Lucha Libre AAA" tvg-logo="" group-title="TV",Lucha Libre AAA
 https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nosey Esc?ndalos" tvg-logo="" group-title="tv",Nosey Esc?ndalos
+#EXTINF:-1 tvg-id="ext" tvg-name="Nosey Esc?ndalos" tvg-logo="" group-title="TV",Nosey Esc?ndalos
 https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Pluto TV" tvg-logo="" group-title="tv",MTV Pluto TV
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Pluto TV" tvg-logo="" group-title="TV",MTV Pluto TV
 https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nick Teen" tvg-logo="" group-title="tv",Nick Teen
+#EXTINF:-1 tvg-id="ext" tvg-name="Nick Teen" tvg-logo="" group-title="TV",Nick Teen
 https://i.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ESR 24/7" tvg-logo="" group-title="tv",ESR 24/7
+#EXTINF:-1 tvg-id="ext" tvg-name="ESR 24/7" tvg-logo="" group-title="TV",ESR 24/7
 https://i.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Filmstream" tvg-logo="" group-title="tv",Pluto TV Filmstream
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Filmstream" tvg-logo="" group-title="TV",Pluto TV Filmstream
 https://i.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kenan y Kel" tvg-logo="" group-title="tv",Kenan y Kel
+#EXTINF:-1 tvg-id="ext" tvg-name="Kenan y Kel" tvg-logo="" group-title="TV",Kenan y Kel
 https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Yu-Gi-Oh" tvg-logo="" group-title="tv",Yu-Gi-Oh
+#EXTINF:-1 tvg-id="ext" tvg-name="Yu-Gi-Oh" tvg-logo="" group-title="TV",Yu-Gi-Oh
 https://i.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV E-Sports" tvg-logo="" group-title="tv",Pluto TV E-Sports
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV E-Sports" tvg-logo="" group-title="TV",Pluto TV E-Sports
 https://i.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="One Piece" tvg-logo="" group-title="tv",One Piece
+#EXTINF:-1 tvg-id="ext" tvg-name="One Piece" tvg-logo="" group-title="TV",One Piece
 https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tokusato" tvg-logo="" group-title="tv",Tokusato
+#EXTINF:-1 tvg-id="ext" tvg-name="Tokusato" tvg-logo="" group-title="TV",Tokusato
 https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Comedy Central Pluto TV" tvg-logo="" group-title="tv",Comedy Central Pluto TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Comedy Central Pluto TV" tvg-logo="" group-title="TV",Comedy Central Pluto TV
 https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Espa?a" tvg-logo="" group-title="tv",Pluto TV Espa?a
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Espa?a" tvg-logo="" group-title="TV",Pluto TV Espa?a
 https://i.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Paramount+ Presenta" tvg-logo="" group-title="tv",Paramount+ Presenta
+#EXTINF:-1 tvg-id="ext" tvg-name="Paramount+ Presenta" tvg-logo="" group-title="TV",Paramount+ Presenta
 https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Retro Cartoons" tvg-logo="" group-title="tv",Pluto TV Retro Cartoons
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Retro Cartoons" tvg-logo="" group-title="TV",Pluto TV Retro Cartoons
 https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Biggest Pop" tvg-logo="" group-title="tv",MTV Biggest Pop
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Biggest Pop" tvg-logo="" group-title="TV",MTV Biggest Pop
 https://i.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Spankin* New" tvg-logo="" group-title="tv",MTV Spankin* New
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Spankin* New" tvg-logo="" group-title="TV",MTV Spankin* New
 https://i.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sin Tetas No Hay Para?so" tvg-logo="" group-title="tv",Sin Tetas No Hay Para?so
+#EXTINF:-1 tvg-id="ext" tvg-name="Sin Tetas No Hay Para?so" tvg-logo="" group-title="TV",Sin Tetas No Hay Para?so
 https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Cl?sico" tvg-logo="" group-title="tv",Pluto TV Cine Cl?sico
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Cl?sico" tvg-logo="" group-title="TV",Pluto TV Cine Cl?sico
 https://i.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Recetas" tvg-logo="" group-title="tv",Pluto TV Recetas
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Recetas" tvg-logo="" group-title="TV",Pluto TV Recetas
 https://i.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Hells Kitchen" tvg-logo="" group-title="tv",Hells Kitchen
+#EXTINF:-1 tvg-id="ext" tvg-name="Hells Kitchen" tvg-logo="" group-title="TV",Hells Kitchen
 https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Euronews Espa?ol" tvg-logo="" group-title="tv",Euronews Espa?ol
+#EXTINF:-1 tvg-id="ext" tvg-name="Euronews Espa?ol" tvg-logo="" group-title="TV",Euronews Espa?ol
 https://i.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Boom" tvg-logo="" group-title="tv",Boom
+#EXTINF:-1 tvg-id="ext" tvg-name="Boom" tvg-logo="" group-title="TV",Boom
 https://i.mjh.nz/PlutoTV/6099600015e88c0007ecda25-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Comedy Central South Park" tvg-logo="" group-title="tv",Comedy Central South Park
+#EXTINF:-1 tvg-id="ext" tvg-name="Comedy Central South Park" tvg-logo="" group-title="TV",Comedy Central South Park
 https://i.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Motorvision TV" tvg-logo="" group-title="tv",Motorvision TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Motorvision TV" tvg-logo="" group-title="TV",Motorvision TV
 https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="El Encantador de Perros" tvg-logo="" group-title="tv",El Encantador de Perros
+#EXTINF:-1 tvg-id="ext" tvg-name="El Encantador de Perros" tvg-logo="" group-title="TV",El Encantador de Perros
 https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Cazador de Homicidas" tvg-logo="" group-title="tv",Cazador de Homicidas
+#EXTINF:-1 tvg-id="ext" tvg-name="Cazador de Homicidas" tvg-logo="" group-title="TV",Cazador de Homicidas
 https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Mi Obsesi?n Favorita" tvg-logo="" group-title="tv",Pluto TV Mi Obsesi?n Favorita
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Mi Obsesi?n Favorita" tvg-logo="" group-title="TV",Pluto TV Mi Obsesi?n Favorita
 https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="El Mariachi" tvg-logo="" group-title="tv",El Mariachi
+#EXTINF:-1 tvg-id="ext" tvg-name="El Mariachi" tvg-logo="" group-title="TV",El Mariachi
 https://i.mjh.nz/PlutoTV/612f8b455ed5810007170b5f-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FUEL TV" tvg-logo="" group-title="tv",FUEL TV
+#EXTINF:-1 tvg-id="ext" tvg-name="FUEL TV" tvg-logo="" group-title="TV",FUEL TV
 https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Iron Chef" tvg-logo="" group-title="tv",Iron Chef
+#EXTINF:-1 tvg-id="ext" tvg-name="Iron Chef" tvg-logo="" group-title="TV",Iron Chef
 https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Younger" tvg-logo="" group-title="tv",Younger
+#EXTINF:-1 tvg-id="ext" tvg-name="Younger" tvg-logo="" group-title="TV",Younger
 https://i.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Baby Shark TV" tvg-logo="" group-title="tv",Baby Shark TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Baby Shark TV" tvg-logo="" group-title="TV",Baby Shark TV
 https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Shore" tvg-logo="" group-title="tv",MTV Shore
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Shore" tvg-logo="" group-title="TV",MTV Shore
 https://i.mjh.nz/PlutoTV/61a52615cbef2500072876e2-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="" group-title="tv",Pluto TV Adrenalina Freezone
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="" group-title="TV",Pluto TV Adrenalina Freezone
 https://i.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Rock Story" tvg-logo="" group-title="tv",Rock Story
+#EXTINF:-1 tvg-id="ext" tvg-name="Rock Story" tvg-logo="" group-title="TV",Rock Story
 https://i.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nickelodeon Rocket Power" tvg-logo="" group-title="tv",Nickelodeon Rocket Power
+#EXTINF:-1 tvg-id="ext" tvg-name="Nickelodeon Rocket Power" tvg-logo="" group-title="TV",Nickelodeon Rocket Power
 https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Schitt*s Creek" tvg-logo="" group-title="tv",Schitt*s Creek
+#EXTINF:-1 tvg-id="ext" tvg-name="Schitt*s Creek" tvg-logo="" group-title="TV",Schitt*s Creek
 https://i.mjh.nz/PlutoTV/620ac814864949000724fb77-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Teen Mom" tvg-logo="" group-title="tv",MTV Teen Mom
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Teen Mom" tvg-logo="" group-title="TV",MTV Teen Mom
 https://i.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Nickelodeon iCarly" tvg-logo="" group-title="tv",Nickelodeon iCarly
+#EXTINF:-1 tvg-id="ext" tvg-name="Nickelodeon iCarly" tvg-logo="" group-title="TV",Nickelodeon iCarly
 https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Ice Pilots" tvg-logo="" group-title="tv",Ice Pilots
+#EXTINF:-1 tvg-id="ext" tvg-name="Ice Pilots" tvg-logo="" group-title="TV",Ice Pilots
 https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CBS News" tvg-logo="" group-title="tv",CBS News
+#EXTINF:-1 tvg-id="ext" tvg-name="CBS News" tvg-logo="" group-title="TV",CBS News
 https://i.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Crimen" tvg-logo="" group-title="tv",Pluto TV Cine Crimen
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Crimen" tvg-logo="" group-title="TV",Pluto TV Cine Crimen
 https://i.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="The Night Shift" tvg-logo="" group-title="tv",The Night Shift
+#EXTINF:-1 tvg-id="ext" tvg-name="The Night Shift" tvg-logo="" group-title="TV",The Night Shift
 https://i.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="" group-title="tv",Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 tvg-id="ext" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="" group-title="TV",Bob Esponja Pantalones Cuadrados
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Catfish" tvg-logo="" group-title="tv",MTV Catfish
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Catfish" tvg-logo="" group-title="TV",MTV Catfish
 https://i.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Death Note" tvg-logo="" group-title="tv",Death Note
+#EXTINF:-1 tvg-id="ext" tvg-name="Death Note" tvg-logo="" group-title="TV",Death Note
 https://i.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Runtime" tvg-logo="" group-title="tv",Runtime
+#EXTINF:-1 tvg-id="ext" tvg-name="Runtime" tvg-logo="" group-title="TV",Runtime
 https://i.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Daria" tvg-logo="" group-title="tv",Daria
+#EXTINF:-1 tvg-id="ext" tvg-name="Daria" tvg-logo="" group-title="TV",Daria
 https://i.mjh.nz/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="La Familia del Barrio" tvg-logo="" group-title="tv",La Familia del Barrio
+#EXTINF:-1 tvg-id="ext" tvg-name="La Familia del Barrio" tvg-logo="" group-title="TV",La Familia del Barrio
 https://i.mjh.nz/PlutoTV/62d08af527ce19000731eaa0-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="La Liga Premier | Paramount+" tvg-logo="" group-title="tv",La Liga Premier | Paramount+
+#EXTINF:-1 tvg-id="ext" tvg-name="La Liga Premier | Paramount+" tvg-logo="" group-title="TV",La Liga Premier | Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="The Ed Sullivan Show" tvg-logo="" group-title="tv",The Ed Sullivan Show
+#EXTINF:-1 tvg-id="ext" tvg-name="The Ed Sullivan Show" tvg-logo="" group-title="TV",The Ed Sullivan Show
 https://i.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Hechizada" tvg-logo="" group-title="tv",Hechizada
+#EXTINF:-1 tvg-id="ext" tvg-name="Hechizada" tvg-logo="" group-title="TV",Hechizada
 https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Reviv? Gran Hermano" tvg-logo="" group-title="tv",Reviv? Gran Hermano
+#EXTINF:-1 tvg-id="ext" tvg-name="Reviv? Gran Hermano" tvg-logo="" group-title="TV",Reviv? Gran Hermano
 https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Beyblade" tvg-logo="" group-title="tv",Beyblade
+#EXTINF:-1 tvg-id="ext" tvg-name="Beyblade" tvg-logo="" group-title="TV",Beyblade
 https://i.mjh.nz/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="La Selecci?n" tvg-logo="" group-title="tv",La Selecci?n
+#EXTINF:-1 tvg-id="ext" tvg-name="La Selecci?n" tvg-logo="" group-title="TV",La Selecci?n
 https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Los Padrinos M?gicos" tvg-logo="" group-title="tv",Los Padrinos M?gicos
+#EXTINF:-1 tvg-id="ext" tvg-name="Los Padrinos M?gicos" tvg-logo="" group-title="TV",Los Padrinos M?gicos
 https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Backdoor" tvg-logo="" group-title="tv",Backdoor
+#EXTINF:-1 tvg-id="ext" tvg-name="Backdoor" tvg-logo="" group-title="TV",Backdoor
 https://i.mjh.nz/PlutoTV/633dc8684bf50b00074a46b1-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Anime Kids" tvg-logo="" group-title="tv",Pluto TV Anime Kids
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Anime Kids" tvg-logo="" group-title="TV",Pluto TV Anime Kids
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Con Mi Ex" tvg-logo="" group-title="tv",MTV Con Mi Ex
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Con Mi Ex" tvg-logo="" group-title="TV",MTV Con Mi Ex
 https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Fashion TV" tvg-logo="" group-title="tv",Fashion TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Fashion TV" tvg-logo="" group-title="TV",Fashion TV
 https://i.mjh.nz/PlutoTV/63974ebedcd9100008c2f59c-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Vive Kanal D Drama" tvg-logo="" group-title="tv",Vive Kanal D Drama
+#EXTINF:-1 tvg-id="ext" tvg-name="Vive Kanal D Drama" tvg-logo="" group-title="TV",Vive Kanal D Drama
 https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="" group-title="tv",Smithsonian Channel Pluto TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="" group-title="TV",Smithsonian Channel Pluto TV
 https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV F?tbol" tvg-logo="" group-title="tv",Pluto TV F?tbol
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV F?tbol" tvg-logo="" group-title="TV",Pluto TV F?tbol
 https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TeleF?rmula" tvg-logo="" group-title="tv",TeleF?rmula
+#EXTINF:-1 tvg-id="ext" tvg-name="TeleF?rmula" tvg-logo="" group-title="TV",TeleF?rmula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bethel RADIO" tvg-logo="" group-title="tv",Bethel RADIO
+#EXTINF:-1 tvg-id="ext" tvg-name="Bethel RADIO" tvg-logo="" group-title="TV",Bethel RADIO
 https://tampa.audio-stream.com/proxy/bethelra?mp=/stream
+
 
