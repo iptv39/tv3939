@@ -10,15 +10,17 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV SUR" tvg-logo="" group-title="TV",ATV SUR
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="PANAMERICANA" tvg-logo="" group-title="TV",PANAMERICANA
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/184.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="America TV" tvg-logo="" group-title="TV",America TV
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/205.m3u8
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32796
 #EXTINF:-1 tvg-id="ext" tvg-name="Exitosa tv" tvg-logo="" group-title="TV",Exitosa tv
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV Peru" tvg-logo="" group-title="TV",TV Peru
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3933.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV Peru Noticias" tvg-logo="" group-title="TV",TV Peru Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="America tv" tvg-logo="" group-title="TV",America tv
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32792
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Peru" tvg-logo="" group-title="TV",TV Peru
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Imagen_no_disponible.svg/2048px-Imagen_no_disponible.svg.png
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal 26 (720p)" tvg-logo="" group-title="TV",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN Noticias" tvg-logo="" group-title="TV",CNN Noticias
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/46.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DW Noticias" tvg-logo="" group-title="TV",DW Noticias
@@ -26,27 +28,27 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AsiriTV " tvg-logo="" group-title="TV",AsiriTV 
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Gol PERU" tvg-logo="" group-title="TV",Gol PERU
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/170.m3u8
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/29252
 #EXTINF:-1 tvg-id="ext" tvg-name="KaribeTV" tvg-logo="" group-title="TV",KaribeTV
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal D Drama (1080p)" tvg-logo="" group-title="TV",Kanal D Drama (1080p)
+#EXTINF:-1 tvg-id="ext" tvg-name="Kanal D Drama " tvg-logo="" group-title="TV",Kanal D Drama 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Latino KIDS" tvg-logo="" group-title="TV",Latino KIDS
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="ext" tvg-name="TV Cine Comedia 24/7" tvg-logo="" group-title="TV",TV Cine Comedia 24/7
-https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="TV",DISCOVERY KIDS
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32868
 #EXTINF:-1 tvg-id="ext" tvg-name="Planeta kids" tvg-logo="" group-title="TV",Planeta kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="Guatuso TV " tvg-logo="" group-title="TV",Guatuso TV 
 https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network " tvg-logo="" group-title="TV",Cartoon Network 
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/18.m3u8
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/135474
 #EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network 2" tvg-logo="" group-title="TV",Cartoon Network 2
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cartoonito Mx" tvg-logo="" group-title="TV",Cartoonito Mx
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TOONCAST" tvg-logo="" group-title="TV",TOONCAST
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/195.m3u8
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/135489
 #EXTINF:-1 tvg-id="ext" tvg-name="TV Kids 24/7" tvg-logo="" group-title="TV",TV Kids 24/7
 https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV Humor" tvg-logo="" group-title="TV",TV Humor
@@ -56,23 +58,49 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="espn 1" tvg-logo="" group-title="TV",espn 1
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/19.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="espn 2" tvg-logo="" group-title="TV",espn 2
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/20.m3u8
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/6917
 #EXTINF:-1 tvg-id="ext" tvg-name="espn 3" tvg-logo="" group-title="TV",espn 3
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/22.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 1" tvg-logo="" group-title="TV",Fox Sports 1
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/152.m3u8
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32900
 #EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 2" tvg-logo="" group-title="TV",Fox Sports 2
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/153.m3u8
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32901
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 3" tvg-logo="" group-title="TV",Fox Sports 3
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32902
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Deportes" tvg-logo="" group-title="TV",TV Deportes
+https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="TV",ANIMAL PLANET
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Animales" tvg-logo="" group-title="TV",TV Animales
+https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Naturaleza" tvg-logo="" group-title="TV",TV Naturaleza
+https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Ciencia" tvg-logo="" group-title="TV",TV Ciencia
+https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="TV",DISCOVERY CHANNEL
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32865
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY WORLD" tvg-logo="" group-title="TV",DISCOVERY WORLD
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32872
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY H&H" tvg-logo="" group-title="TV",DISCOVERY H&H
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32867
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Aventura" tvg-logo="" group-title="TV",TV Aventura
+https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="History" tvg-logo="" group-title="TV",History
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/135366
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO WILD" tvg-logo="" group-title="TV",NAT GEO WILD
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32936
+#EXTINF:-1 tvg-id="ext" tvg-name="BETHEL" tvg-logo="" group-title="TV",BETHEL
+http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/29240
+#EXTINF:-1 tvg-id="ext" tvg-name="Enlace " tvg-logo="" group-title="TV",Enlace 
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Andes Televisi?n " tvg-logo="" group-title="TV",Andes Televisi?n 
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AUTENTICA TV" tvg-logo="" group-title="TV",AUTENTICA TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal 26 (720p)" tvg-logo="" group-title="TV",Canal 26 (720p)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="TV",ANIMAL PLANET
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="top cine latam" tvg-logo="" group-title="TV",top cine latam
 https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="La Islilla TV [Not 24/7]" tvg-logo="" group-title="TV",La Islilla TV [Not 24/7]
+http://190.108.83.142:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Terror" tvg-logo="" group-title="TV",Pluto TV Cine Terror
 https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cadena TV" tvg-logo="" group-title="TV",Cadena TV
@@ -85,8 +113,6 @@ https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cocina" tvg-logo="" group-title="TV",Pluto TV Cocina
 https://i.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Deportes" tvg-logo="" group-title="TV",Pluto TV Deportes
-https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Novelas" tvg-logo="" group-title="TV",Pluto TV Novelas
 https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Series" tvg-logo="" group-title="TV",Pluto TV Series
@@ -101,40 +127,22 @@ https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Estelar" tvg-logo="" group-title="TV",Pluto TV Cine Estelar
 https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Hogar" tvg-logo="" group-title="TV",Pluto TV Hogar
-https://i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV  Competencias" tvg-logo="" group-title="TV",Pluto TV  Competencias
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Velocidad" tvg-logo="" group-title="TV",Pluto TV Velocidad
-https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Teen" tvg-logo="" group-title="TV",Pluto TV Teen
 https://i.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Romance" tvg-logo="" group-title="TV",Pluto TV Cine Romance
 https://i.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Animales" tvg-logo="" group-title="TV",Pluto TV Animales
-https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Ciencia" tvg-logo="" group-title="TV",Pluto TV Ciencia
-https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Series Latinas" tvg-logo="" group-title="TV",Pluto TV Series Latinas
 https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Naturaleza" tvg-logo="" group-title="TV",Pluto TV Naturaleza
-https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Aventura" tvg-logo="" group-title="TV",Pluto TV Aventura
-https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Central TV (Chosica) (614p) [Not 24/7]" tvg-logo="" group-title="TV",Central TV (Chosica) (614p) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CGTN Espa?ol (576p)" tvg-logo="" group-title="TV",CGTN Espa?ol (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CharapaTV (Pucallpa) [Not 24/7]" tvg-logo="" group-title="TV",CharapaTV (Pucallpa) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Conecta2TV (Lima) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Conecta2TV (Lima) (720p) [Not 24/7]
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Controversia TV (Moyobamba) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Controversia TV (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CR Television (Moyobamba) (720p) [Not 24/7]" tvg-logo="" group-title="TV",CR Television (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CreoTV (Cajamarca) (720p) [Not 24/7]" tvg-logo="" group-title="TV",CreoTV (Cajamarca) (720p) [Not 24/7]
-https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CTC (720p)" tvg-logo="" group-title="TV",CTC (720p)
 http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cultura 24 (360p) [Not 24/7]" tvg-logo="" group-title="TV",Cultura 24 (360p) [Not 24/7]
@@ -155,22 +163,14 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="EnerGeek Retro (720p) [Not 24/7]" tvg-logo="" group-title="TV",EnerGeek Retro (720p) [Not 24/7]
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Enlace (720p)" tvg-logo="" group-title="TV",Enlace (720p)
-https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Esports Max [Not 24/7]" tvg-logo="" group-title="TV",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="EWTN el Canal Cat?lico (720p) [Not 24/7]" tvg-logo="" group-title="TV",EWTN el Canal Cat?lico (720p) [Not 24/7]
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Filmstream" tvg-logo="" group-title="TV",Filmstream
-https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="France 24 Espa?ol (1080p)" tvg-logo="" group-title="TV",France 24 Espa?ol (1080p)
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Frecuencia Musical TV (720p)" tvg-logo="" group-title="TV",Frecuencia Musical TV (720p)
-https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FuegoTV (Lima) (720p) [Not 24/7]" tvg-logo="" group-title="TV",FuegoTV (Lima) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Galicia TV Am?rica (720p)" tvg-logo="" group-title="TV",Galicia TV Am?rica (720p)
-http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Genios TV (Moyobamba) (720p) [Not 24/7]" tvg-logo="" group-title="TV",Genios TV (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Hiperconectados Televisi?n (720p)" tvg-logo="" group-title="TV",Hiperconectados Televisi?n (720p)
@@ -191,8 +191,6 @@ https://servilive.com:3149/live/jn19tvlive.m3u8
 http://177.53.152.186:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanade (720p)" tvg-logo="" group-title="TV",Kanade (720p)
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="La Islilla TV [Not 24/7]" tvg-logo="" group-title="TV",La Islilla TV [Not 24/7]
-http://190.108.83.142:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="La Luz TV (720p) [Not 24/7]" tvg-logo="" group-title="TV",La Luz TV (720p) [Not 24/7]
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="La Ribere?a (Pucallpa) (480p) [Not 24/7]" tvg-logo="" group-title="TV",La Ribere?a (Pucallpa) (480p) [Not 24/7]
@@ -619,5 +617,7 @@ https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Bethel RADIO" tvg-logo="" group-title="TV",Bethel RADIO
 https://tampa.audio-stream.com/proxy/bethelra?mp=/stream
+
+
 
 
