@@ -90,7 +90,7 @@ http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/135366
 #EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO WILD" tvg-logo="" group-title="TV",NAT GEO WILD
 http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/32936
 #EXTINF:-1 tvg-id="ext" tvg-name="BETHEL" tvg-logo="" group-title="TV",BETHEL
-http://hardcoremedia.xyz:80/QU3xtnqJtB/8239925752/29240
+https://d1h3uwvc88ypd2.cloudfront.net/out/v1/4331f5126d944a21b7be0a5068cce910/index.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="Enlace " tvg-logo="" group-title="TV",Enlace 
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Andes Televisi?n " tvg-logo="" group-title="TV",Andes Televisi?n 
