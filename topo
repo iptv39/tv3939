@@ -23,8 +23,6 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV Peru" tvg-logo="" group-title="tv",TV Peru
 https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Imagen_no_disponible.svg/2048px-Imagen_no_disponible.svg.png
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal 26 (720p)" tvg-logo="" group-title="tv",Canal 26 (720p)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN Noticias" tvg-logo="" group-title="tv",CNN Noticias
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27981
 #EXTINF:-1 tvg-id="ext" tvg-name="DW Noticias" tvg-logo="" group-title="tv",DW Noticias
