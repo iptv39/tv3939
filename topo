@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:24,Latina
+http://37.49.225.197:8080/Bigtv/ed81deb4/46590
+#EXTINF:24,America
+http://37.49.225.197:8080/Bigtv/ed81deb4/8983
+#EXTINF:24,Willax
+http://37.49.225.197:8080/Bigtv/ed81deb4/187026
+#EXTINF:24,Gol Peru
+http://37.49.225.197:8080/Bigtv/ed81deb4/8990
 #EXTINF:24,ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:24,ATV +
