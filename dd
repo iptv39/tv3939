@@ -2,7 +2,7 @@
 
 ***TV EN DIRECTO***
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Welcome" tvg-logo="" group-title="TV",Welcome
+#EXTINF:-1 tvg-id="ext" tvg-name="Welcome" tvg-logo="" group-title="TV EN DIRECTO",Welcome
 https://i.mjh.nz/SamsungTVPlus/ESBD800001RJ.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Peliplus top" tvg-logo="" group-title="TV",Peliplus top
 https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
@@ -27,7 +27,7 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
 ***PELICULAS***
 
-#EXTINF:-1 tvg-logo="https://cdn.ome.lt/extras/capas/ligaPosterNacional.jpg" group-title="Filmes Lançamentos", Liga da Justiça
+#EXTINF:-1 tvg-logo="https://cdn.ome.lt/extras/capas/ligaPosterNacional.jpg" group-title="PELICULAS", Liga da Justiça
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="http://images.universohq.com//2017/10/ThorRagnarokPoster2.jpg" group-title="Filmes Lançamentos", THOR: RAGNAROK
