@@ -1,5 +1,7 @@
 #PLAYLISTV: pltv-logo="https://fliperamaxxi.com/img/cms/one.png" pltv-name="Exclusivo Clientes" pltv-description="Filmes e Séries" pltv-cover="https://http2.mlstatic.com/lista-iptv-filmes-series-e-animes-13000-conteudos-lanca-D_NQ_NP_703799-MLB26626833973_012018-F.jpg" pltv-author="João Victor" pltv-site="xxxx" pltv-email="xxxx" pltv-phone="xxxx"
 
+***TV EN DIRECTO***
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Welcome" tvg-logo="" group-title="TV",Welcome
 https://i.mjh.nz/SamsungTVPlus/ESBD800001RJ.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Peliplus top" tvg-logo="" group-title="TV",Peliplus top
@@ -23,7 +25,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Exitosa tv" tvg-logo="" group-title="TV",Exitosa tv
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
-***FILMES***
+***PELICULAS***
 
 #EXTINF:-1 tvg-logo="https://cdn.ome.lt/extras/capas/ligaPosterNacional.jpg" group-title="Filmes Lançamentos", Liga da Justiça
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-BAIXO.mp4
