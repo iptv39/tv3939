@@ -1,5 +1,28 @@
 #PLAYLISTV: pltv-logo="https://fliperamaxxi.com/img/cms/one.png" pltv-name="Exclusivo Clientes" pltv-description="Filmes e Séries" pltv-cover="https://http2.mlstatic.com/lista-iptv-filmes-series-e-animes-13000-conteudos-lanca-D_NQ_NP_703799-MLB26626833973_012018-F.jpg" pltv-author="João Victor" pltv-site="xxxx" pltv-email="xxxx" pltv-phone="xxxx"
 
+#EXTINF:-1 tvg-id="ext" tvg-name="Welcome" tvg-logo="" group-title="TV",Welcome
+https://i.mjh.nz/SamsungTVPlus/ESBD800001RJ.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Peliplus top" tvg-logo="" group-title="TV",Peliplus top
+https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV" tvg-logo="" group-title="TV",Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESBC27000062Q.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV 2" tvg-logo="" group-title="TV",Rakuten TV 2
+https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="" group-title="TV",AMC
+https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ViX fun" tvg-logo="" group-title="TV",ViX fun
+https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV" tvg-logo="" group-title="TV",ATV
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV +" tvg-logo="" group-title="TV",ATV +
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV SUR" tvg-logo="" group-title="TV",ATV SUR
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PANAMERICANA" tvg-logo="" group-title="TV",PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Exitosa tv" tvg-logo="" group-title="TV",Exitosa tv
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+
 ***FILMES***
 
 #EXTINF:-1 tvg-logo="https://cdn.ome.lt/extras/capas/ligaPosterNacional.jpg" group-title="Filmes Lançamentos", Liga da Justiça
