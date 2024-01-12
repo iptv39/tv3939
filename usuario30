@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="Welcome" tvg-logo="" group-title="usuario: ",Welcome
+https://i.mjh.nz/SamsungTVPlus/ESBD800001RJ.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Latina" tvg-logo="" group-title="usuario: ",Latina
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Peliplus top" tvg-logo="" group-title="usuario: ",Peliplus top
+https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV" tvg-logo="" group-title="usuario: ",Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESBC27000062Q.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV 2" tvg-logo="" group-title="usuario: ",Rakuten TV 2
+https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="" group-title="usuario: ",AMC
+https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ViX fun" tvg-logo="" group-title="usuario: ",ViX fun
+https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV" tvg-logo="" group-title="usuario: ",ATV
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV +" tvg-logo="" group-title="usuario: ",ATV +
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DW Noticias" tvg-logo="" group-title="usuario: ",DW Noticias
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV SUR" tvg-logo="" group-title="usuario: ",ATV SUR
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PANAMERICANA" tvg-logo="" group-title="usuario: ",PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Exitosa tv" tvg-logo="" group-title="usuario: ",Exitosa tv
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Per?" tvg-logo="" group-title="usuario: ",TV Per?
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="KaribeTV" tvg-logo="" group-title="usuario: ",KaribeTV
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Noticias del mundo" tvg-logo="" group-title="usuario: ",Noticias del mundo
+https://stitcher.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="ext" tvg-name="Kanal D Drama" tvg-logo="" group-title="usuario: ",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Latino KIDS" tvg-logo="" group-title="usuario: ",Latino KIDS
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="Planeta TV" tvg-logo="" group-title="usuario: ",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PandaMAX" tvg-logo="" group-title="usuario: ",PandaMAX
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Magic Kids" tvg-logo="" group-title="usuario: ",Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GikTVMx" tvg-logo="" group-title="usuario: ",GikTVMx
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Planeta kids" tvg-logo="" group-title="usuario: ",Planeta kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="dreikotv" tvg-logo="" group-title="usuario: ",dreikotv
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network 2" tvg-logo="" group-title="usuario: ",Cartoon Network 2
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="usuario: ",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoonito Mx" tvg-logo="" group-title="usuario: ",Cartoonito Mx
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GAMEX" tvg-logo="" group-title="usuario: ",GAMEX
+https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EnerGeek Fanpop" tvg-logo="" group-title="usuario: ",EnerGeek Fanpop
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Esport MAX" tvg-logo="" group-title="usuario: ",Esport MAX
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XITE LATIN NEWS" tvg-logo="" group-title="usuario: ",XITE LATIN NEWS
+https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus 2 HD" tvg-logo="" group-title="usuario: ",Retro Plus 2 HD
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Vinilos TV" tvg-logo="" group-title="usuario: ",Vinilos TV
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="80s Flashback" tvg-logo="" group-title="usuario: ",80s Flashback
+https://i.mjh.nz/SamsungTVPlus/CABB2600017ZU.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="90s Throwback" tvg-logo="" group-title="usuario: ",90s Throwback
+https://i.mjh.nz/SamsungTVPlus/CABB2600018T4.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XITE Hits" tvg-logo="" group-title="usuario: ",XITE Hits
+https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XITE Rock On" tvg-logo="" group-title="usuario: ",XITE Rock On
+https://i.mjh.nz/SamsungTVPlus/CABB26000054K.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XITE Only Love" tvg-logo="" group-title="usuario: ",XITE Only Love
+https://i.mjh.nz/SamsungTVPlus/CABD12000207Z.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Vevo *70s" tvg-logo="" group-title="usuario: ",Vevo *70s
+https://i.mjh.nz/SamsungTVPlus/CABC5200010G2.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Vevo *80s" tvg-logo="" group-title="usuario: ",Vevo *80s
+https://i.mjh.nz/SamsungTVPlus/CABC5200011IS.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Vevo *90s" tvg-logo="" group-title="usuario: ",Vevo *90s
+https://i.mjh.nz/SamsungTVPlus/CABC52000127S.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Vevo Retro Rock" tvg-logo="" group-title="usuario: ",Vevo Retro Rock
+https://i.mjh.nz/SamsungTVPlus/CABC5200014PD.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Teleamazonas" tvg-logo="" group-title="usuario: ",Teleamazonas
+https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio El Pueblo" tvg-logo="" group-title="usuario: ",Radio El Pueblo
+https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio TV Tendencias" tvg-logo="" group-title="usuario: ",Radio TV Tendencias
+https://s1.tvdatta.com:3950/multi_web/play.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio Tropical Tarapoto" tvg-logo="" group-title="usuario: ",Radio Tropical Tarapoto
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Onda Digital" tvg-logo="" group-title="usuario: ",Onda Digital
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Radio San Borja TV" tvg-logo="" group-title="usuario: ",Radio San Borja TV
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BETHEL" tvg-logo="" group-title="usuario: ",BETHEL
+https://d1h3uwvc88ypd2.cloudfront.net/out/v1/4331f5126d944a21b7be0a5068cce910/index.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Novel?sima" tvg-logo="" group-title="usuario: ",Novel?sima
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Sistemas Cuzco" tvg-logo="" group-title="usuario: ",TV Sistemas Cuzco
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Uranio TV" tvg-logo="" group-title="usuario: ",Uranio TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Locomotion " tvg-logo="" group-title="usuario: ",Locomotion 
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ExtremaTV" tvg-logo="" group-title="usuario: ",ExtremaTV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BHtv" tvg-logo="" group-title="usuario: ",BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PLanch" tvg-logo="" group-title="usuario: ",PLanch
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="The retro channel" tvg-logo="" group-title="usuario: ",The retro channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="Latinokids" tvg-logo="" group-title="usuario: ",Latinokids
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Seo tv 1" tvg-logo="" group-title="usuario: ",Seo tv 1
+https://live.seo.tv.bo/live/SEO-1.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Seo tv 2" tvg-logo="" group-title="usuario: ",Seo tv 2
+https://live.seo.tv.bo/live/SEO-2.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Seo tv 3 Novelas " tvg-logo="" group-title="usuario: ",Seo tv 3 Novelas 
+https://live.seo.tv.bo/live/SEO-3.m3u8S
+#EXTINF:-1 tvg-id="ext" tvg-name="Antares" tvg-logo="" group-title="usuario: ",Antares
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AsiriTV" tvg-logo="" group-title="usuario: ",AsiriTV
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Kidsito" tvg-logo="" group-title="usuario: ",Kidsito
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Enlace" tvg-logo="" group-title="usuario: ",Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Esport MAX Gamers" tvg-logo="" group-title="usuario: ",Esport MAX Gamers
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EWTN" tvg-logo="" group-title="usuario: ",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Memorias" tvg-logo="" group-title="usuario: ",Memorias
+https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PakaPka" tvg-logo="" group-title="usuario: ",PakaPka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PlanetaTV" tvg-logo="" group-title="usuario: ",PlanetaTV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Platzi" tvg-logo="" group-title="usuario: ",Platzi
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
